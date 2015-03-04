@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProtestThor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Postavke</string>
+    <string name="title_activity_protest_editor">Uređivanje protesta</string>
+    <string name="label_protest_title">Naziv protesta</string>
+    <string name="label_protest_description">Opis protesta</string>
+    <string name="menu_label_new_protest">Novi protest</string>
+    <string name="title_activity_parole_editor">Uređivanje parola</string>
+    <string name="label_parole_text">Tekst parole</string>
+    <string name="title_activity_parole_list">Parole</string>
+    <string name="title_activity_protest_list">Lista protesta</string>
+    <string name="menu_item_edit_protests">Uredi proteste</string>
+</resources>
