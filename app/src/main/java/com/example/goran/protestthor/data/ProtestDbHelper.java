@@ -10,7 +10,7 @@ import com.example.goran.protestthor.data.ProtestorContract.ParoleEntry;
  */
 public class ProtestDbHelper  extends SQLiteOpenHelper {
     public final static String DATABASE_NAME = "weather.db";
-    public final static int DATABASE_VERSION = 2;
+    public final static int DATABASE_VERSION = 3;
 
 
     public ProtestDbHelper(Context context, String name, SQLiteDatabase.CursorFactory factory, int version) {
